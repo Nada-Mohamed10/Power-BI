@@ -24,3 +24,7 @@ hierarchy)
 d. No. orders by Territory 
 6- Search about tooltip page and try to make it 
 7- Focus on creating a well-designed and visually appealing report 
+
+![Day2](https://github.com/user-attachments/assets/d92a3dc5-b111-45da-bccf-acab28ba009f)
+
+![StarSchema](https://github.com/user-attachments/assets/d2442191-d996-4db0-9fe5-fe03cfb6a812)
